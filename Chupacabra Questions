@@ -29,13 +29,14 @@ Questions:
 28.On which directory did the attacker compress?
 29.How many files are in 2022.7z?
 30.What is the "Creator" information of the "Accounting Manager Job Description Template" file in 2022.7z?
-31.What is the "File Creation Date/Time" information of the "Uniform Chart of Accounts" file in 2022.7z? 1-Where is the domain of the site registered with the attacker's C2 address?
-32.Where is the country where the attack came from as likely?
-33.What are the names of malicious executable files?
-34.What are the names of malicious document/script files?
-35.One of the malicious executable files uses an attack technique. What is the name of this technique?
-36.In the technique used, what is the name of the target process?
-37.What is the file path of the application that the malicious file named Accesstoken runs with the technique it uses?
-38.What is the command contained in the malicious file with the “ps1” extension ?
-39.Is there a powershell command in the file with “xlsm” extension? What is it if it exists?
-40.A windows application is running from within the file with the “xlsm” extension. What is the name of this app?
+31.What is the "File Creation Date/Time" information of the "Uniform Chart of Accounts" file in 2022.7z? 
+32-Where is the domain of the site registered with the attacker's C2 address?
+33.Where is the country where the attack came from as likely?
+34.What are the names of malicious executable files?
+35.What are the names of malicious document/script files?
+36.One of the malicious executable files uses an attack technique. What is the name of this technique?
+37.In the technique used, what is the name of the target process?
+38.What is the file path of the application that the malicious file named Accesstoken runs with the technique it uses?
+39.What is the command contained in the malicious file with the “ps1” extension ?
+40.Is there a powershell command in the file with “xlsm” extension? What is it if it exists?
+41.A windows application is running from within the file with the “xlsm” extension. What is the name of this app?
